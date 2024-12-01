@@ -1,0 +1,8 @@
+git@github.com:learn-co-curriculum/dsc-phase-4-project.git
+git@github.com:learn-co-curriculum/dsc-normal-distribution.git
+git@github.com:learn-co-curriculum/dsc-gradient-descent-step-sizes-lab.git
+git@github.com:learn-co-curriculum/dsc-nonparametric-models-lab.git
+git@github.com:learn-co-curriculum/dsc-refactoring-with-pipelines.git
+git@github.com:learn-co-curriculum/dsc-sklearn-preprocessing-lab.git
+git@github.com:learn-co-curriculum/dsc-chi-square.git
+git@github.com:learn-co-curriculum/dsc-t-tests.git
