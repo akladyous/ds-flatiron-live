@@ -1,0 +1,15 @@
+jupyterlab
+notebook
+ipywidgets
+qtconsole
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+matplotlib
+seaborn
+
+Flask
+requests
+fastapi[standard]
